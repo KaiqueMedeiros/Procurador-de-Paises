@@ -1,4 +1,4 @@
-# 🚀Procurador-de-Países🚀
+# 🚀Country Finder🚀
 
 ## ⚙️ I used HTML for the website structure, along with Bootstrap for more efficient styling, and an API (REST Countries) to fetch the necessary data. JavaScript was used to build the functional logic of the application. ⚙️
 
